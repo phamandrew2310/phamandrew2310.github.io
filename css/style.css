@@ -29,7 +29,7 @@ body {
     background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(../images/wallpaper_pic.jpg);
     /* Prevents the browser from repeating or "tiling" the background image */
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center bottom;
     /* Freezes the image so that even the content scrolls down, the background stays put */
     background-attachment: fixed;
     /* Resizes the background image to cover the entire container */
